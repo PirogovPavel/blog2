@@ -21,8 +21,8 @@ author:
   # want it.
   info:
 
-url: https://pirogovpavel.github.io
-baseurl: "/blog2"
+url: https://pavelpirogov.ru
+baseurl: ""
 
 # language attribute in <html> element.
 lang: ru
@@ -38,7 +38,7 @@ lang: ru
 show-subtitle: true
 display-social-icons: false
 
-footer-text: 
+footer-text:
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
