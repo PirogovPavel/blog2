@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Pirogov
+name: Пирогов
 
 description:
 
@@ -12,7 +12,7 @@ description:
     #Это текст под названием (что-то вроде описания)
 
 author:
-  name: Pavel Pirogov # Change this!
+  name: Пирогов Павел # Change this!
 
   # Necessary for contact page
   email: pavlikpirozkov2@gmail.com # Change this!
